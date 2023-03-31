@@ -1,6 +1,6 @@
 Name:		texlive-econ-bst
 Version:	61499
-Release:	1
+Release:	2
 Summary:	BibTeX style for economics papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/econ-bst
