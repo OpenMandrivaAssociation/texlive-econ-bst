@@ -3,7 +3,7 @@ Version:	68761
 Release:	1
 Summary:	BibTeX style for economics papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/econ-bst
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/econ-bst
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/econ-bst.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/econ-bst.doc.r%{version}.tar.xz
